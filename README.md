@@ -17,7 +17,7 @@ Não esqueça de fazer uma versão para o mobile, utilizando [Media Queries](htt
 - Em ambas as formas de visualização, o box deve estar centralizado horizontalmente.
 - Você deve utilizar **todas** as propriedades flex citadas no arquivo de CSS que há no repositório.
 
-Se você estiver tendo problemas ao tentar lembrar o comportamento das diversas propriedades flexbox, consulte os diagramas de [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) (em inglês).
+Se você estiver tendo problemas ao tentar lembrar o comportamento das diversas propriedades flexbox, consulte os diagramas de [A Complete Guide to Flexbox](c) (em inglês).
 
 ### Envio
 
