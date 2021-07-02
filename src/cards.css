@@ -4,7 +4,17 @@ html {
     color: #2F3442;
     height: 100%;
     background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+body {
+  display: flex;
+  justify-content: center;
+    
+}
+
 
 .icon {color: #BCD2DA;}
 
@@ -49,11 +59,11 @@ html {
 .cardGroup {
     /* display */
     display: flex;
-    justify-content: space-evenly;
-      
+          
     border: 1px solid #CAD0D2;
     border-radius: 4px;
     overflow: hidden;
+    width: 100%;
     max-width: 710px;
   }
   
